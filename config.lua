@@ -1,3 +1,7 @@
+-- Don't forget to make sure that these are installed:
+--  - ripgrep
+--  - lazygit
+
 -- My Stuff
 vim.opt.relativenumber = true
 vim.opt.wrap = true
