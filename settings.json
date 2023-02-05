@@ -60,6 +60,15 @@
                 "<C-w>",
                 "l"
             ]
+        },
+        {
+            "before": [
+                "g",
+                "r"
+            ],
+            "commands": [
+                "editor.action.goToReferences"
+            ]
         }
     ]
 }
